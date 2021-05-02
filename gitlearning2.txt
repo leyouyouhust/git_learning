@@ -1,7 +1,4 @@
 python is a miraculous tool.
 you are very handsome and excellent, come on.
-<<<<<<< HEAD
 you are so smart that no one can stop me from moving forward.
-=======
-you are so smart that no one can stop me from moving forward.
->>>>>>> feature1
+you are so lucky that there will be someday you will succeed.
